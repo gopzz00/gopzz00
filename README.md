@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Gopika, a passionate DevOps Engineer and Software Developer. Welcome to my GitHub portfolio, where I showcase my projects and contributions.
+## Hi there 👋 I'm Gopika, a passionate DevOps Engineer . Welcome to my GitHub portfolio, where I showcase my projects and contributions.
 
 Skills
 Programming: Python, Bash, Shell Scripting
